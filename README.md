@@ -17,7 +17,7 @@ python run_classifier.py \
     --do_train=true \
     --do_eval=true \
     --do_predict=true \
-    --data_dir=./data/ \
+    --data_dir=../data/ \
     --vocab_file=../uncased_L-12_H-768_A-12/vocab.txt \
     --bert_config_file=../uncased_L-12_H-768_A-12/bert_config.json \
     --init_checkpoint=../uncased_L-12_H-768_A-12/bert_model.ckpt \
