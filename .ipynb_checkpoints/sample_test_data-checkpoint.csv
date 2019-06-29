@@ -1,0 +1,110 @@
+,failure_mode_tm,stop_words_removed
+1,Worn,gear changer working needs replacing elect hrs
+2,Worn,gear selector playing needs replacing elect hrs
+3,Worn,replace gear selector hours
+5,Worn,whilst completing sos operator reported fault gear leaver interlock raised noti sourced parts utc steven herbst replace gear selector assembly
+7,Worn,faulty selector lever changed selector lever fitter hrs
+8,Worn,maintainer blower mototr needs investigation found wrong blower motor notification raised hv electritians replace motor utc jay russell disconnect old blower motor remove install new blower motor test motor send back work
+9,Failed,horn replace created sparky hours
+10,Failed,fitter hours
+11,Worn,handle hoist peice hex steel raised notification unsure correct number one could find online parts fiter nil nil utc jamie rayner phone different order job different machine number listed utc steven gravino phone job completed
+14,Worn,propulsion checked faults found counts direction signal found forward reverse requested checked selector foun quite worn magnet shorting solder joints pcboard replace elec hr utc mitchell thorning replaced selector test
+15,Worn,gear selector
+16,Worn,maintainer diagnosed gear selector needs notification raised autoelect replace selector utc ben daly completed
+17,Worn,machine faulted grid blower delta inspected grid blower motors found nearly new comm burnt evidense heat grounding brush slipring also making good connection electricians nil nil
+18,Worn,replace faulty gear
+19,Worn,gear selector button sticking becoming hard change need replace selector entered notification electrician hours nil nil
+20,Worn,replace stair elec motor fitter
+22,Worn,acc deck
+23,Worn,maintenance found gear selector lever issue parked position door open alarm triggered door selector requires replacement raise notifications electrician change gear machine
+26,Worn,fwd contoller working
+27,Worn,lhr mudflap support torn half mudflap well parts need materialized end extended photo attached notification fitter mudflap retainer bracke lhr mudflap support torn half mudflap well parts need materialized end extended photo attached notification fitter mudflap retainer bracket
+29,Worn,front truck damaged due crash photo attached
+31,Worn,park brakes failed
+35,Worn,gear selector one one hour one
+62,worn,alternator brushes blower brushes replace worn limit part number task take electrician complete create notification electrician plus parts nil
+74,Failed,inverter fault truck gone ramp numerous times parked stock phase modules reason check electrician investigate phase module get one ordered replace hours nil nil
+75,Failed,inverter fault truck gone ramp numerous times parked stock phase modules reason check electrician investigate phase module get one ordered replace hours nil nil
+92,Failed,electric horn open circuit pn task take auto electrician complete create wo complete task leaving work shop auto electrician plus part nil
+123,worn,lecky hrs change alternator brushes made notification alternator brushes nil nil
+124,worn,electrician hours brushes blower motor brushes alternator nil nil
+134,Damaged,rp contactor replace checked sparky hours nil nil
+135,worn,rp contactor replace checked sparky hours nil nil
+139,worn,replace contacts worn electrician hours
+142,Worn,replace contacts worn electrician hours
+150,worn,blower motor brushes worn rp tips worn electrician hrs
+151,Worn,blower motor brushes worn rp tips worn electrician hrs
+156,worn,replace blower motor brushes next planned maintainance day electrician hours
+158,Worn,rp contact tips hv electrician hrs
+159,Failed,blower motor flashover elect
+162,worn,brushes getting low blower motor get shop replace within next days check truck reported electrician hours
+163,Damaged,found service electrical inspection rp contactor tips need replacing also operating need replace parts hv electrician hrs book
+166,worn,found electrical inspection truck requires new brushes contacts tips book parts replace service today hv electrician hrs book brush brush contact kit
+167,worn,found electrical inspection truck requires new brushes contacts tips book parts replace service today hv electrician hrs book brush brush contact kit
+173,Worn,found electrical inspection truck requires new brushes contacts tips book parts replace service today hv electrician hrs book brush brush contact kit
+175,Worn,found electrical service inspection rp contact tips need book fit new contact tips hv electrician hrs book contact kits
+176,worn,need replace alternator brushes made nil nil
+186,worn,replace hv alt one lecky brushes brief description occurred basic sequence events impacts avoiding use personnel define work including known materials specialist labour special tools
+190,worn,electrician hrs contactor
+192,output,power supply supply replace power supply unit electrician hours fit test nil nil
+193,worn,auto electrician nil auto electrician nil
+203,Failed,blower motor still com need replace blower motor hv electrician hrs fitter hrs book blower motor
+204,worn,machine retard fault invesergation found brushes well worn comutator
+208,Worn,elect
+211,Failed,yellow push button broken needs replacing activated switch position hv elec part number
+212,Fails,accel potentiometer electrician hours nil nil
+217,Failed,body alarm working interface alarm working test circuits book replace failed hv electrician alarm alarm card
+218,Failed,workshop horn replaced new one electrician nil nil
+219,damaged,steven williams job completed confirmed ron piggott
+220,Worn,blower motor flashover elect
+222,Worn,found service electrical inspection rp contactor tips need replacing also operating need replace parts hv electrician hrs book
+223,Worn,found service electrical inspection rp contactor tips need replacing also operating need replace parts hv electrician hrs book
+224,Failed,headlight requires auto elec led high beam headlight
+227,damaged,lhr reverse light broken autelect
+229,Failed,found top lh alt brush replaced new one electrician nil nil
+230,Damaged,needs repolacing blown elect
+232,Failed,needs repolacing blown elect
+236,Worn,lecky hours jeffrey dundas kit hv electrician hour
+251,Worn,hv elec hours
+252,Worn,found electrical service rp contactor tips required fit parts hv electrician hrs book bma stock
+255,Worn,blower motor still com need replace blower motor hv electrician hrs fitter hrs book blower motor
+256,worn,blower motor brushs electrician nil nil jamie rayner phone found top right brush holder raised notification change rh blower
+257,worn,blower motor brushs electrician nil nil jamie rayner phone found top right brush holder raised notification change rh blower
+260,Inoperable,rear cabinet pressure switch grommet cables cabinet door seals raise notification order requires fitter nill nill
+261,Failed,replace steering hoses run cab steering one fitter
+263,worn,rh blower motor brushs raised notification booked fitted parts returned electrician nil nil
+265,Worn,conatact tips raised booked parts fitted returned electrician nil nil
+267,Failed,gear selector worn selecting gears electrician hours nil nil
+269,Failed,found inspection rp contactor worn electrican hrs
+270,damaged,arc chute worn needs lecky
+271,Worn,replace rp contact one electrician material number
+276,Worn,lhr reverse light broken autelect
+277,Failed,grid resistors front rhs grid box truck taken shop resistor replacement nil nil
+278,Failed,grid resistors front rhs grid box truck taken shop resistor replacement nil nil
+279,Failed,grid resistors front rhs grid box truck taken shop resistor replacement nil nil
+280,Worn,conatact tips replace full kit electrician nil nil
+283,Worn,conatact tips replace full rp kit electrician nil nil
+284,Worn,conatact tips replaced full rp contact tip kit elecrician nil nil
+293,Worn,service noted rp contactor tips worn notification book parts hrs
+294,worn,jeff peterson work carried komatsu hv checked grid blower commutator looks ok commutator smooth sharp edges brushes good need check next service
+296,Failed,failed rdb recitifer diode clean cabinets replace notification electrician hrs
+299,Failed,truck propulsion restriction due failure invertor phase replace invertor stack phase hv eletrician hrs pos igbt neg igbt
+300,Failed,truck propulsion restriction due failure invertor phase replace invertor stack phase hv eletrician hrs pos igbt neg igbt
+304,Worn,service contact tips noted worn past servicable notification order parts hrs
+305,Worn,week service noticed wear needs electrician
+306,Worn,week service noticed visual inspection rp contacts worn need electrician
+307,worn,service number hv alternator brushes measure around alot contact pressure notification entered carbon brushes hours please plan next day workshop service
+312,Worn,tips sad go till next service lekky hours set tips
+313,worn,hv electrician hours
+314,Worn,found service contact tips need replacing none stock need done next service defect day please make lecky hours tip kits nil nil
+320,worn,alternator brushes made notification lecky hrs nil nil
+321,worn,alternator brushes made notification lecky hrs nil nil
+322,worn,insepcted alternator week serivce noticed three brushes need replacing next service electrician
+327,worn,inspection found following needed replacing indicator light alt brushes rp contact arc chute bulb
+328,worn,inspection found following needed replacing indicator light alt brushes rp contact arc chute bulb
+329,worn,inspection found following needed replacing indicator light alt brushes rp contact arc chute bulb
+330,Worn,inspection found following needed replacing indicator light alt brushes rp contact arc chute bulb
+331,Worn,replace rp contact one one hv sparky one
+332,worn,found one alternator brushes need replacing rp contact tip need bookout parts fit hv electrician hrs hv electrician app brush kit rp contact kit
+335,Worn,found one alternator brushes need replacing rp contact tip need bookout parts fit hv electrician hrs hv electrician app brush kit rp contact kit
+346,worn,replace arc chutes next maint hv electrician two
