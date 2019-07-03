@@ -1,10 +1,8 @@
 ## Instructions for running training
 
-* Clone official [bert_repo](https://github.com/google-research/bert)
+* Clone this repo
 
 * cd bert
-
-
 
 * Download [BERT-Base, Uncased: 12-layer, 768-hidden, 12-heads, 110M parameters](https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip)
 
