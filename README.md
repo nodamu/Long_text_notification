@@ -28,6 +28,13 @@ python run_classifier.py \
     --output_dir=../output/ \
     --do_lower_case=True \
 ```
+### Tensorboard
+
+To view progress in tensorboard enter the following command in terminal
+``` shell
+tensorboard --logdir=output_dir
+```
+
 ### Requirements
 
  - **Tensorflow-gpu=1.12 or higher**
