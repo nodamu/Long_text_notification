@@ -47,8 +47,8 @@ df_results_csv = pd.DataFrame({'index':df_test[''],
 # Replacing index with string as required for submission
 df_results_csv['mode'].replace(0, 'worn',inplace=True)
 df_results_csv['mode'].replace(1, 'failed',inplace=True)
-df_results_csv['mode'].replace(1, 'inoperable',inplace=True)
-df_results_csv['mode'].replace(1, 'damaged',inplace=True)
+df_results_csv['mode'].replace(2, 'inoperable',inplace=True)
+df_results_csv['mode'].replace(3, 'damaged',inplace=True)
 
 
  
