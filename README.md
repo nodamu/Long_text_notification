@@ -37,3 +37,17 @@ tensorboard --logdir=output_dir
 
  - **Tensorflow-gpu=1.12 or higher**
  
+
+### View test results
+```
+df_results = pd.read_csv("bert_output/test_results.tsv",sep="\t",header=None)
+df_results_csv = pd.DataFrame({'index':df_test[''],
+                               'mode':df_results.idxmax(axis=1)})
+ 
+# Replacing index with string as required for submission
+df_results_csv['mode'].replace(0, 'happy',inplace=True)
+df_results_csv['mode'].replace(1, 'not_happy',inplace=True)
+ 
+# writing into .csv
+df_results_csv.to_csv('data/result.csv',sep=",",index=None)
+```
