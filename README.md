@@ -22,7 +22,7 @@ python run_classifier.py \
     --max_seq_length=400 \
     --train_batch_size=8 \
     --learning_rate=2e-5 \
-    --num_train_epochs=3.0 
+    --num_train_epochs=3.0 \
     --output_dir=../output/ \
     --do_lower_case=True \
 ```
@@ -45,8 +45,12 @@ df_results_csv = pd.DataFrame({'index':df_test[''],
                                'mode':df_results.idxmax(axis=1)})
  
 # Replacing index with string as required for submission
-df_results_csv['mode'].replace(0, 'happy',inplace=True)
-df_results_csv['mode'].replace(1, 'not_happy',inplace=True)
+df_results_csv['mode'].replace(0, 'worn',inplace=True)
+df_results_csv['mode'].replace(1, 'failed',inplace=True)
+df_results_csv['mode'].replace(1, 'inoperable',inplace=True)
+df_results_csv['mode'].replace(1, 'damaged',inplace=True)
+
+
  
 # writing into .csv
 df_results_csv.to_csv('data/result.csv',sep=",",index=None)
